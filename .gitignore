@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Datasets & checkpoints — never upload
+data/
+*.pth
+*.pth.tar
+*.ckpt
+log/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Internal notes (local only, not for public upload)
+改动说明.md

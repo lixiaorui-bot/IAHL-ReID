@@ -1,0 +1,8 @@
+# IAHL-ReID reproduction environment (Python 3.8)
+# GPU wheels for torch==1.12.1 should be installed per your CUDA version, see
+# https://pytorch.org/get-started/previous-versions/
+torch==1.12.1
+torchvision==0.13.1
+numpy
+Pillow
+tqdm
